@@ -1,3 +1,5 @@
-# CSS - box model
+# SZPC - Projeto One Piece
+
+## CSS - box model
 
 O modelo de caixa (box model) é um conceito fundamental em CSS que descreve a estrutura e o posicionamento dos elementos HTML em uma página da web. Cada elemento é renderizado como uma caixa retangular composta por conteúdo, preenchimento, borda e margem. O conteúdo é a área interna da caixa contendo texto, imagens ou outros elementos. O preenchimento é uma área opcional ao redor do conteúdo que separa das bordas. A borda é uma linha que envolve o conteúdo e o preenchimento, definida por sua largura, estilo e cor. A margem é uma área opcional ao redor da borda que separa elementos vizinhos. Para usar o box model, você pode ajustar as propriedades CSS como largura, altura, preenchimento, borda e margem. O tamanho total do elemento é afetado por todas essas partes. O box model é essencial para criar layouts responsivos e controlar o espaçamento dos elementos em uma página web.
