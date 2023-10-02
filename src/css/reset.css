@@ -1,0 +1,9 @@
+* {
+  margin: 0; /*Espaçamentos Externos*/
+  padding: 0; /*Espaçamentos Internos*/
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
