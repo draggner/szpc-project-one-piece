@@ -75,7 +75,7 @@ main .personagem .imagem {
   right: 0;
   display: flex;
   flex-direction: column;
-  min-width: 100vh;
+  min-height: 100vh;
   width: 180px;
   justify-content: center;
   align-items: center;
